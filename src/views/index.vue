@@ -1777,13 +1777,13 @@
 		.logo-wrap{
 			margin-left: 8px;
 			.logo {
-				background: url(@/assets/images/logo.gif) no-repeat 0px 0px; width: 180px; height: 50px
+				background: url(@/assets/images/logo.png) no-repeat 0px 0px; width: 180px; height: 50px;background-size:100% 100%;
 			}
 		}
 		.logo-icon{
 			margin-left: -8px;
 			.logo {
-				background: url(@/assets/images/logo.gif) no-repeat 0px 0px; width: 60px; height: 50px
+				background: url(@/assets/images/logo.png) no-repeat 0px 0px; width: 60px; height: 50px; background-size:100% 100%;
 			}
 		}
 		.navigation-menu-left {
